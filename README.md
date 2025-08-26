@@ -87,5 +87,3 @@ ST1SWJT6E89N997541S3EQKAAXCBGPR9MPZB0HEGV.simpletoken
 **Deployment Date**: [To be added]  
 
 ---
-
-*This project represents a significant step toward ethical, secure, and profitable genetic data sharing. By combining blockchain technology with genetic research, we're building the foundation for the next generation of personalized medicine and scientific discovery.*
