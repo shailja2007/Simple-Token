@@ -77,13 +77,7 @@ ST1SWJT6E89N997541S3EQKAAXCBGPR9MPZB0HEGV.simpletoken
 <img width="1888" height="1007" alt="image" src="https://github.com/user-attachments/assets/173e4a7e-b92e-4bf8-b356-53e513d3d2af" />
 
 **Network**: Stacks Mainnet  
-**Contract Address**: [To be added after deployment]  
+**Contract Address**: ST1SWJT6E89N997541S3EQKAAXCBGPR9MPZB0HEGV.simpletoken
 **Contract Name**: genomic-data-marketplace  
 **Version**: 1.0.0  
-
-**Testnet Details** (for development):  
-**Network**: Stacks Testnet  
-**Contract Address**: [To be added after testnet deployment]  
-**Deployment Date**: [To be added]  
-
 ---
